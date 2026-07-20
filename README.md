@@ -9,7 +9,7 @@
 
 # Skill制作所使用的程序及开源项目
 
-- `Initial-Markdown`文件夹中的Markdown文件是由Kimi(www.kimi.com)提供的数据收集及整理 (目前仅`Yoisaki_Kanade-Skill-202607202230.md`是由Kimi处理的)
+- `Initial-Markdown`文件夹中的Markdown文件是由Kimi（www.kimi.com）提供的数据收集及整理 (目前仅`Yoisaki_Kanade-Skill-202607202230.md`是由Kimi处理的)
 - `Kanade-skill`文件夹下的Skill成品则为开源项目`https://github.com/JodieRuth/GalgameCharacterSkills`提供的便携处理。主要用于将`Initial-Markdown`文件夹下的Markdown文件通过API调用AI模型，将其内容生成为SKill成品
 - Skill成品是由在线AI模型`deepseek-v4-pro`所生成，其API调用程序已在前面的内容中提到
 
