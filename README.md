@@ -69,7 +69,7 @@ Yoisaki_Kanade-Skill/
 
 | 工具/项目 | 用途 |
 |-----------|------|
-| [Kimi (kimi.com)](https://www.kimi.com) | 数据收集及整理，生成 `Initial-Markdown` 下的原始 Markdown 文档 |
+| [Kimi](https://www.kimi.com) | 数据收集及整理，生成 `Initial-Markdown` 下的原始 Markdown 文档 |
 | [GalgameCharacterSkills](https://github.com/JodieRuth/GalgameCharacterSkills) | 将 Markdown 文档处理转换为 Skill 成品 |
 | DeepSeek-V4-Pro（在线 AI 模型） | 通过 API 调用生成 Skill 成品的核心内容 |
 
@@ -112,7 +112,7 @@ Yoisaki_Kanade-Skill/
 
 ## 许可
 
-请查看仓库根目录下的 [LICENSE] 文件了解具体许可条款。
+请查看仓库根目录下的 [LICENSE](https://github.com/shifengshua/Yoisaki_Kanade-Skill/blob/main/LICENSE) 文件了解具体许可条款。
 
 
 ## 致谢
