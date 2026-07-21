@@ -25,7 +25,7 @@
 ```
 Yoisaki_Kanade-Skill/
 ├── Initial-Markdown/                          # 原始 Markdown 文档
-│   └── Yoisaki_Kanade-Skill-202607202230.md  # 角色设定总文档（超8000字完整设定）
+│   └── Yoisaki_Kanade-Skill-202607202230.md   # 角色设定总文档（超8000字完整设定）
 │
 └── Kanade-skill/                              # Skill 成品（可直接使用）
     ├── SKILL.md                               # 核心技能文件（角色规则与框架）
@@ -53,6 +53,10 @@ Yoisaki_Kanade-Skill/
 3. **导入 AI 平台**：将解压出的整个 `Kanade-skill` 文件夹拖入任意支持 Skill 的 AI 聊天平台即可使用
 
 4. **开始对话**：在支持该 Skill 的 AI 中激活后，输入 `/Kanade_chat [你的问题]` 即可与「宵崎奏」对话
+
+5. **知识库**（可选部分）：如有需要，可往`resource`文件夹中放入txt文本文档作为知识库补充（注意！txt文件内容必须为 **UTF-8** 编码）
+
+6.1. **知识库源**（可选部分）：如需要补充知识库内容，可通过此开源仓库[ProjectSekai-story](https://github.com/ci-ke/ProjectSekai-story)获取《Project SEKAI COLORFUL STAGE! feat. 初音ミク》的剧情txt文本文件
 
 ### 方法二：使用原始 Markdown 文档
 
